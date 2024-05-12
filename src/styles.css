@@ -72,17 +72,17 @@ body {
 }
 
 .home-content .btn-box {
-    width: 600px;
+    width: 500px;
     height: 25px;
     background: transparent;
-    padding-bottom: 0 10%;
+    padding-inline-end: 0 50%;
 }
 
 .btn-box a {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 360px;
+    width: 200px;
     height: 100%;
     background: #00abf0;
     border: 2px solid #00abf0;
